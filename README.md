@@ -18,18 +18,19 @@ AgriLens Kit is a smart agriculture hardware solution that uses AI, IoT, and com
 
 🧠 How It Works
 Image / Video / Sound Capture
-        ↓
-Preprocessing (RGB → HSV, Leaf Isolation)
-        ↓
+        
+*Preprocessing (RGB → HSV, Leaf Isolation)
+        
 Stage 1: Crop Detection (CNN)
-        ↓
+        
 Stage 2: Disease Classification
-        ↓
-Severity Scoring (0–9 Index)
-        ↓
-Decision Logic
-        ↓
-Automated Precision Spraying
+        
+*Severity Scoring (0–9 Index)
+        
+*Decision Logic
+        
+*Automated Precision Spraying
+
 
 
 Soil moisture, pH, temperature, and environmental sensors prevent over-spraying and ensure safe pesticide levels.
